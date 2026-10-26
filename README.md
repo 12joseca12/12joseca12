@@ -1,37 +1,31 @@
-# José Carlos Sánchez García
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="José Carlos Sánchez García. React Native and full-stack developer in Leganés, Madrid. Available for freelance, 20 to 30 hours a week or fixed-price projects.">
+</p>
 
-React Native and full-stack developer based in Leganés (Madrid, Spain). I build mobile apps and web products, and I add AI where it solves a concrete problem.
+<p align="center">
+  <img src="assets/featured-3catinfo.svg" width="100%" alt="Featured work: 3CatInfo, the news app of 3Cat, the Catalan public broadcaster. React Native development, responsible for AI integration, accessibility reference of the team and trainer of the React Native, iOS, Android and QA teams. Via Alten since 2024.">
+</p>
 
-## What I do
+<p align="center">
+  <a href="https://apps.apple.com/es/app/3catinfo/id457034636"><img src="assets/btn-appstore.svg" height="44" alt="3CatInfo on the App Store"></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.tres24"><img src="assets/btn-googleplay.svg" height="44" alt="3CatInfo on Google Play"></a>
+</p>
 
-- Mobile apps with React Native and Expo, published on the App Store and Google Play.
-- Web apps and sites with Next.js and TypeScript, running on Cloudflare Workers and Supabase.
-- AI inside products: LLM integration and process automation with n8n.
-- Accessibility (WCAG) as a requirement from the first screen.
+<p align="center">
+  <img src="assets/what-i-do.svg" width="100%" alt="What I do: mobile apps with React Native and Expo; web products with Next.js on Cloudflare Workers and Supabase; AI in products with LLMs and n8n; accessibility as a requirement.">
+</p>
 
-## Work
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack: React Native, Expo, React, Next.js, TypeScript, Node.js, NestJS, Cloudflare Workers, PostgreSQL, Supabase, Firebase, Redis, Jest, CI/CD, WCAG, Docker, n8n.">
+</p>
 
-- **3catinfo**: the news app of 3Cat, live on the App Store and Google Play. Through Alten I work on the React Native app, I am responsible for its AI integration and I am the accessibility reference of the team.
-- **Oportunix**: mystery box marketplace with automation that reduces the client's daily operations. Next.js and Firebase. [oportunix.com](https://oportunix.com)
-- **HazmeFila**: app to hire someone who queues for you. Expo and Supabase.
+<p align="center">
+  <a href="mailto:freelance@josecoded.com"><img src="assets/btn-email.svg" height="44" alt="Email freelance@josecoded.com"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jose-carlos-sanchez-garcia-7019072a9"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn profile"></a>
+</p>
 
-Client work lives in private repositories.
+<p align="center"><sub>Also building: <b>Oportunix</b>, a mystery box marketplace with automated operations (Next.js, Firebase), and <b>HazmeFila</b>, an app to hire someone who queues for you (Expo, Supabase). Client work lives in private repositories.</sub></p>
 
-## Stack
-
-- Mobile: React Native, Expo, push notifications, deep linking
-- Web: React, Next.js, TypeScript
-- Backend: Node.js, NestJS, Cloudflare Workers, REST APIs
-- Data: PostgreSQL, Supabase, Firebase, Redis
-- Quality: Jest, CI/CD, WCAG
-- Tools: Git, Docker, n8n
-
-## Contact
-
-Available for freelance work: 20 to 30 hours a week, or fixed-price projects.
-
-[freelance@josecoded.com](mailto:freelance@josecoded.com) · [LinkedIn](https://www.linkedin.com/in/jose-carlos-sanchez-garcia-7019072a9)
-
----
-
-**En español.** Desarrollador React Native y full-stack en Leganés (Madrid). Hago apps móviles y productos web, y añado IA donde resuelve un problema concreto. Disponible para proyectos freelance por horas o a precio cerrado: [freelance@josecoded.com](mailto:freelance@josecoded.com).
+<p align="center"><sub><b>En español.</b> Desarrollador React Native y full-stack en Leganés (Madrid). Apps en producción, IA dentro del producto y accesibilidad desde la primera pantalla. Disponible para proyectos freelance por horas o a precio cerrado.</sub></p>
