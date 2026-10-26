@@ -13,6 +13,16 @@
 </p>
 
 <p align="center">
+  <img src="assets/featured-3cat.svg" width="100%" alt="Featured work: 3Cat, the app of the Catalan public broadcaster for live TV and radio, series and podcasts. React Native development for iOS and Android.">
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/es/app/3cat/id364615121"><img src="assets/btn-appstore-3cat.svg" height="44" alt="3Cat on the App Store"></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=cat.tv3.eng.tresac"><img src="assets/btn-googleplay-3cat.svg" height="44" alt="3Cat on Google Play"></a>
+</p>
+
+<p align="center">
   <img src="assets/what-i-do.svg" width="100%" alt="What I do: mobile apps with React Native and Expo; web products with Next.js on Cloudflare Workers and Supabase; AI in products with LLMs and n8n; accessibility as a requirement.">
 </p>
 
